@@ -1,0 +1,8 @@
+.terraform
+conf/named.conf.local
+conf/named.conf.options
+conf/zones/db.200.125.124
+conf/zones/db.juanherrera.com.ar
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
